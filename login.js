@@ -1,6 +1,6 @@
 // Login function
 function login(username, password) {
-    return username === "admin" && password === "12345";
+    return username === "admin" && password === "123";
 }
 
 // Browser code
